@@ -20,3 +20,5 @@ Finally, there will be a "Steps" Heading followed by an ORDERED list of the step
 This will require me to use my understanding of the terminal and creation of the HTML boilerplate for each webpage. I will need to use appropriately sized Headings, paragraph tags, image links, and lists (ordered and unordered). 
 
 Finally, I will need to practice committing changes to Github and adding commit messages.
+
+I am making a change to the README file now, because I'd like to go throught the whole add/commit process, this time remembering to add a commit message (either using -m or not)
